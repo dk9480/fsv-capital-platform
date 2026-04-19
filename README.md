@@ -36,7 +36,7 @@
 
 > *"This is not just a form. It's a complete Deal Intake + Screening + Pipeline Management Platform."*
 
-### 🎬 Full Demo
+### 📸 Screenshots Gallery
 - 📸 **Complete Screenshots:** [View on Google Drive](https://drive.google.com/drive/folders/1-QciyBpmF7eHslKgU37Hz3ih6TIlcCRx?usp=sharing)
 
 ---
