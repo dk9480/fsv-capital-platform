@@ -91,7 +91,7 @@
 ---
 
 ## 🏗️ Architecture
-<img width="3024" height="2505" alt="Architecture diagram flow" src="https://github.com/user-attachments/assets/833dabfd-e01d-42f0-8efb-f240e82775b2" />
+![Architecture](screenshots/architecture-diagram.png)
 
 
 
