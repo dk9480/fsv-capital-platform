@@ -1,0 +1,54 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  input, textarea, select {
+    color: #1f2937 !important;
+    background-color: #ffffff !important;
+  }
+  
+  input::placeholder, textarea::placeholder {
+    color: #9ca3af !important;
+  }
+}
+
+@layer components {
+  .input-field {
+    @apply w-full px-4 py-2 border border-gray-300 rounded-lg 
+           focus:ring-2 focus:ring-[#0A1929] focus:border-[#0A1929] 
+           outline-none transition-all text-gray-900 bg-white;
+  }
+  
+  .input-label {
+    @apply block text-sm font-medium text-gray-700 mb-1;
+  }
+  
+  .btn-primary {
+    @apply bg-[#0A1929] text-white px-6 py-2 rounded-lg 
+           hover:bg-[#0A1929]/90 transition-all font-medium;
+  }
+  
+  .btn-secondary {
+    @apply border border-[#0A1929] text-[#0A1929] px-6 py-2 rounded-lg 
+           hover:bg-[#0A1929]/10 transition-all font-medium;
+  }
+  
+  .btn-save {
+    @apply border border-gray-300 text-gray-700 px-4 py-2 rounded-lg 
+           hover:bg-gray-50 transition-all font-medium;
+  }
+  
+  .card {
+    @apply bg-white rounded-xl shadow-sm border border-gray-100 p-6;
+  }
+  .btn-save {
+  @apply border border-gray-300 text-gray-700 px-4 py-2 rounded-lg 
+         hover:bg-gray-50 transition-all font-medium;
+}
+}
