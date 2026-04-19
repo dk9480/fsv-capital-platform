@@ -38,7 +38,7 @@
 
 ### 🎬 Full Demo
 - 🎥 **Video Walkthrough:** [Watch Demo on Google Drive](https://drive.google.com/your-video-link)
-- 📸 **Complete Screenshots:** [View on Google Drive](https://drive.google.com/your-screenshots-link)
+- 📸 **Complete Screenshots:** [View on Google Drive](https://drive.google.com/drive/folders/1-QciyBpmF7eHslKgU37Hz3ih6TIlcCRx?usp=sharing)
 
 ---
 
